@@ -63,3 +63,11 @@
     padding: 6px 20px;
   }
 }
+
+.clip-bg-one{
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 75%);
+}
+
+.clip-bg-two{
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
+}

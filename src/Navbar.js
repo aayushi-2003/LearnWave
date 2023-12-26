@@ -7,7 +7,7 @@ import { IoMdClose } from "react-icons/io";
 const Navbar = () => {
     const [toggleMenu, setToggleMenu] = useState(false);
   return (
-    <div className=' navbar-container w-full fixed top-0 left-0 bg-primary-blue lg:h-[120px] md:h-[80px] h-[65px] xl:px-[150px] md:px-[100px] px-[50px] flex items-center justify-between'>
+    <div className=' navbar-container w-full fixed top-0 left-0 bg-primary-blue lg:h-[120px] md:h-[80px] h-[65px] xl:px-[150px] md:px-[100px] px-[50px] flex items-center justify-between z-10'>
         <div className="logo flex items-center space-x-4">
             <img src={Logo} alt="logo" className='mb-3 lg:h-[30px] md:h-[26px] h-[24px]' />
             <h1 className="xl:text-[28px] text-[24px] text-yellow-300 font-medium hidden lg:block">LearnWave</h1>
