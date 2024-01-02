@@ -2,9 +2,9 @@ import heroImg from './assets/heroImg.svg';
 const Hero = () => {
   return (
     <div className=''>
-        <div className="bg-primary-blue h-[550px] md:h-[520px] lg:h-[550px] xl:h-[650px] w-full z-[-10]absolute top-0 clip-bg-one px-[50px] md:px-[100px] xl:px-[150px]">
+        <div className="bg-primary-blue h-[550px] md:h-[520px] lg:h-[550px] xl:h-[750px] w-full z-[-10]absolute top-0 clip-bg-one px-[50px] md:px-[100px] xl:px-[150px]">
 
-        <div className='hero-content flex items-center justify-between absolute top-[8rem] space-x-[24px] md:space-x-[35px] lg:space-x-[50px] xl:space-x-[135px]'>
+        <div className='hero-content flex items-center justify-between absolute top-[8rem] xl:top-[12rem] space-x-[24px] md:space-x-[35px] lg:space-x-[50px] xl:space-x-[135px]'>
             <div className='image-box hidden lg:block'>
                 <img src={heroImg} alt="image" className='h-[250px] xl:h-[300px] w-auto ' />
             </div>
@@ -22,7 +22,7 @@ const Hero = () => {
         </div>
 
         </div>
-        <div className="bg-[#80c1fe] bg-opacity-80 h-[570px] md:h-[540px] lg:h-[570px] xl:h-[670px] w-full z-[-10] absolute top-[-18px] clip-bg-two"></div>
+        <div className="bg-[#80c1fe] bg-opacity-80 h-[570px] md:h-[540px] lg:h-[570px] xl:h-[770px] w-full z-[-10] absolute top-[-18px] clip-bg-two"></div>
     </div>
   )
 }
