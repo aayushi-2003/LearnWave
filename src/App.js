@@ -4,6 +4,7 @@ import Hero from './Hero';
 import Scholarship from './Scholarship';
 import {Features} from './Features';
 import Courses from './Courses';
+import Mentors from './Mentors';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Navbar/>
       <Hero/>
       {/* <Courses/> */}
+      <Mentors/>
       <Features/>
       <Scholarship/>
     </div>
