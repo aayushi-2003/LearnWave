@@ -18,7 +18,7 @@ const Navbar = () => {
                 <RxHamburgerMenu className='h-7 w-7 '/>}
             </div>
 
-            <ul className={`md:flex md:items-center md:justify-center md:py-0 py-12 md:pl-10 absolute md:static bg-primary-blue md:z-auto z-[-1] left-0 w-full xl:space-x-6 xl:text-[22px] text-[18px] lg:space-x-3 space-y-4 md:space-y-0 font-medium md:w-auto transition-all duration-500 ease-in ${toggleMenu?'top-10':'top-[-490px]'}`}>
+            <ul className={`md:flex md:items-center md:justify-center md:py-0 py-12 md:pl-10 absolute md:static bg-primary-blue md:z-auto z-[-1] left-0 w-full xl:space-x-6 xl:text-[22px] text-[18px] space-x-3 space-y-4 md:space-y-0 font-medium md:w-auto transition-all duration-500 ease-in ${toggleMenu?'top-10':'top-[-490px]'}`}>
                 <li className="text-white text-opacity-95 cursor-pointer md:hover:border-b-yellow-300 md:hover:border-b-[3px] px-2">Explore</li>
                 <li className="text-white text-opacity-95 cursor-pointer  md:hover:border-b-yellow-300 md:hover:border-b-[3px] px-2">Courses</li>
                 <li className="text-white text-opacity-95 cursor-pointer md:hover:border-b-yellow-300 md:hover:border-b-[3px] px-2">Practice</li>
