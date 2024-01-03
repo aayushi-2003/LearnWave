@@ -17,7 +17,7 @@ const Mentors = () => {
                 <img src={mentor} alt="mentor" className='h-[200px] lg:h-[300px] xl:h-[350px] mb-4 xl:mb-2'/>
                 <div className='flex flex-col items-center justify-center'>
                 <span className='text-[16px] md:text-[20px]'>Mr. John Doe</span>
-                <span className='text-cyan-200 text-[14px] md:text-[18px]'>Ex-Amazon SDE</span>
+                <span className='text-cyan-200 text-[14px] md:text-[18px] font-semibold'>Ex-Amazon SDE</span>
                 <span className='text-center text-[13px] md:text-base'>Data Structures and Algorithms Mentor</span>
                 <button className='btn text-nowrap mt-4 xl:mt-2 '>
                     <span className='text-[14px] md:text-[16px] lg:text-[20px]'>View Profile</span>

@@ -5,6 +5,7 @@ import Scholarship from './Scholarship';
 import {Features} from './Features';
 import Courses from './Courses';
 import Mentors from './Mentors';
+import Footer from './Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Mentors/>
       <Features/>
       <Scholarship/>
+      <Footer/>
     </div>
   );
 }
