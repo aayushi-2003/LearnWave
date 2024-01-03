@@ -6,15 +6,17 @@ import {Features} from './Features';
 import Courses from './Courses';
 import Mentors from './Mentors';
 import Footer from './Footer';
+import Testimonials from './Testimonials';
 
 function App() {
   return (
     <div className="App">
       <Navbar/>
       <Hero/>
-      {/* <Courses/> */}
+      <Courses/>
       <Mentors/>
       <Features/>
+      <Testimonials/>
       <Scholarship/>
       <Footer/>
     </div>

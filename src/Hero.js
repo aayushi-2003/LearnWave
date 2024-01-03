@@ -13,7 +13,7 @@ const Hero = () => {
                 <p className='text-[14px] md:text-[16px] lg:text-[18px] xl:text-[22px] text-white text-opacity-85 text-center lg:text-justify'>Join our community of 10,000+ users on a transformative journey. Elevate your skills in computer science and design fields and witness remarkable growth over just 100 days.</p>
                 <div className='w-[280px] md:w-[500px] xl:w-[650px] h-[120px] md:h-[80px] lg:h-[50px] xl:h-[70px] bg-white rounded-[10px] xl:rounded-[16px] flex flex-col lg:flex-row items-center justify-center max-lg:space-y-2 lg:space-x-4'>
                     <p className='text-[#023C72] text-[14px] md:text-[16px] lg:text-[14px] xl:text-[16px] text-center'>We provide 30+ free courses and 1-to-1 mentorships</p>
-                    <button className='bg-secondary-blue px-8 lg:px-4 xl:px-8 py-1 xl:py-2 rounded-full hover:bg-opacity-85'>
+                    <button className='bg-primary-pink px-8 lg:px-4 xl:px-8 py-1 xl:py-2 rounded-full hover:bg-opacity-85'>
                         <span className='text-[14px] md:text-base text-white text-nowrap'>Create Account</span>
                     </button>
                 </div>
@@ -22,7 +22,7 @@ const Hero = () => {
         </div>
 
         </div>
-        <div className="bg-[#80c1fe] bg-opacity-80 h-[570px] md:h-[540px] lg:h-[570px] xl:h-[770px] w-full z-[-10] absolute top-[-18px] clip-bg-two"></div>
+        <div className="bg-secondary-blue bg-opacity-80 h-[570px] md:h-[540px] lg:h-[570px] xl:h-[770px] w-full z-[-10] absolute top-[-18px] clip-bg-two"></div>
     </div>
   )
 }

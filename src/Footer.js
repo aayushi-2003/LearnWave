@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="bg-[#4C6DEB] h-[863px] md:h-[482px] lg:h-[620px]  w-full z-[-10] absolute bottom-0 clip-footer-two"></div>
         <div className="bg-[#8EA2F0] h-[910px] md:h-[510px] lg:h-[655px]  w-full z-[-20] absolute bottom-0 clip-footer-three"></div>
         <div className="bg-[#8EA2F0] h-[910px] md:h-[510px] lg:h-[655px]  w-full z-[-20] absolute bottom-0 clip-footer-four"></div>
-        <div className="bg-secondary-blue h-[820px] md:h-[460px] lg:h-[588px]  w-full z-[20] absolute bottom-0 ">
+        <div className="bg-primary-blue h-[820px] md:h-[460px] lg:h-[588px]  w-full z-[20] absolute bottom-0 ">
             <div className="w-full py-[40px] md:py-[60px] lg:py-[80px] px-[50px] md:px-[100px] lg:px-[180px] xl:px-[300px] lex items-center justify-center flex-col space-y-10 lg:space-y-16">
                 <div className="flex items-center justify-center flex-col md:flex-row space-y-2 md:space-y-0 space-x-0 md:space-x-6 lg:space-x-10">
                     <h3 className="text-base lg:text-xl xl:text-2xl text-white text-nowrap">Subscribe to our Newsletter</h3>

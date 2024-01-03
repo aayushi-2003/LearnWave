@@ -4,8 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        'primary-blue': '#1469f1',
-        'secondary-blue': '#264DE4',
+        'primary-blue': '#11009E',
+        'secondary-blue': '#0578e5',
+        'primary-pink': '#6b62fe',
+        'secondary-pink': '#D5B9FA',
       },
       fontFamily:{
         primary: ['Roboto', 'sans-serif'],
