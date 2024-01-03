@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/LearnWave/static/css/main.869bf408.css",
-    "main.js": "/LearnWave/static/js/main.bfc4d3f8.js",
+    "main.css": "/LearnWave/static/css/main.285af44c.css",
+    "main.js": "/LearnWave/static/js/main.a5717c9e.js",
     "static/media/mentor.svg": "/LearnWave/static/media/mentor.93d6077f937acac4a189ba9de09bf10b.svg",
     "static/media/heroImg.svg": "/LearnWave/static/media/heroImg.3275c665ca9f27062c0af8aad92c71dd.svg",
+    "static/media/instagram.png": "/LearnWave/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/twitter.png": "/LearnWave/static/media/twitter.7e40f617aaa8eca864bb.png",
+    "static/media/youtube.png": "/LearnWave/static/media/youtube.b4f2b64af1b614ce26dc.png",
+    "static/media/linkedin.png": "/LearnWave/static/media/linkedin.6892b3ae328c7a1e055f.png",
     "index.html": "/LearnWave/index.html",
     "static/media/Logo.svg": "/LearnWave/static/media/Logo.52f909b88302ce5e1c19ee899ed23ccb.svg",
-    "main.869bf408.css.map": "/LearnWave/static/css/main.869bf408.css.map",
-    "main.bfc4d3f8.js.map": "/LearnWave/static/js/main.bfc4d3f8.js.map"
+    "main.285af44c.css.map": "/LearnWave/static/css/main.285af44c.css.map",
+    "main.a5717c9e.js.map": "/LearnWave/static/js/main.a5717c9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.869bf408.css",
-    "static/js/main.bfc4d3f8.js"
+    "static/css/main.285af44c.css",
+    "static/js/main.a5717c9e.js"
   ]
 }
