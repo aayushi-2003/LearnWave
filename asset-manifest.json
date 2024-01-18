@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/LearnWave/static/css/main.285af44c.css",
-    "main.js": "/LearnWave/static/js/main.a5717c9e.js",
+    "main.css": "/LearnWave/static/css/main.3d512013.css",
+    "main.js": "/LearnWave/static/js/main.0acae444.js",
     "static/media/mentor.svg": "/LearnWave/static/media/mentor.93d6077f937acac4a189ba9de09bf10b.svg",
+    "static/media/profile.jpeg": "/LearnWave/static/media/profile.c7c4c9fe06546acb9505.jpeg",
     "static/media/heroImg.svg": "/LearnWave/static/media/heroImg.3275c665ca9f27062c0af8aad92c71dd.svg",
     "static/media/instagram.png": "/LearnWave/static/media/instagram.79535458a8a6d88f81d4.png",
     "static/media/twitter.png": "/LearnWave/static/media/twitter.7e40f617aaa8eca864bb.png",
@@ -10,11 +11,11 @@
     "static/media/linkedin.png": "/LearnWave/static/media/linkedin.6892b3ae328c7a1e055f.png",
     "index.html": "/LearnWave/index.html",
     "static/media/Logo.svg": "/LearnWave/static/media/Logo.52f909b88302ce5e1c19ee899ed23ccb.svg",
-    "main.285af44c.css.map": "/LearnWave/static/css/main.285af44c.css.map",
-    "main.a5717c9e.js.map": "/LearnWave/static/js/main.a5717c9e.js.map"
+    "main.3d512013.css.map": "/LearnWave/static/css/main.3d512013.css.map",
+    "main.0acae444.js.map": "/LearnWave/static/js/main.0acae444.js.map"
   },
   "entrypoints": [
-    "static/css/main.285af44c.css",
-    "static/js/main.a5717c9e.js"
+    "static/css/main.3d512013.css",
+    "static/js/main.0acae444.js"
   ]
 }
