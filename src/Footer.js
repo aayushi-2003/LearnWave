@@ -14,8 +14,8 @@ const Footer = () => {
             <div className="w-full py-[40px] md:py-[60px] lg:py-[80px] px-[50px] md:px-[100px] lg:px-[180px] xl:px-[300px] lex items-center justify-center flex-col space-y-10 lg:space-y-16">
                 <div className="flex items-center justify-center flex-col md:flex-row space-y-2 md:space-y-0 space-x-0 md:space-x-6 lg:space-x-10">
                     <h3 className="text-base lg:text-xl xl:text-2xl text-white text-nowrap">Subscribe to our Newsletter</h3>
-                    <div className="h-[30px] md:h-[35px] lg:h-[50px] xl:h-[70px] w-[300px] md:w-[600px] border-[1px] md:border-2 border-white rounded-full px-8 xl:px-10 py-2 flex items-center">
-                        <span className="text-white text-opacity-85 text-base lg:text-lg">Email ID</span>
+                    <div className="h-[30px] md:h-[35px] lg:h-[50px] xl:h-[70px] w-[300px] md:w-[600px] border-[1px] md:border-2 border-white rounded-full md:px-8 xl:px-10 py-2 flex items-center justify-center md:justify-start">
+                        <span className="text-white text-opacity-85 text-base lg:text-lg ">Email ID</span>
                     </div>
                 </div>
                     <div className="flex items-center justify-center md:justify-between md:flex-row flex-col space-y-4 md:space-y-0 ">
