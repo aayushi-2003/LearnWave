@@ -2,9 +2,9 @@ import heroImg from './assets/heroImg.svg';
 const Hero = () => {
   return (
     <div>
-        <div className="bg-primary-blue h-[550px] md:h-[520px] lg:h-[550px] xl:h-[750px] w-full z-[-10] clip-bg-one px-[50px] md:px-[100px] xl:px-[150px]">
+        <div className="bg-primary-blue h-[550px] md:h-[520px] lg:h-[550px] xl:h-[750px] w-full z-[-10] clip-bg-one px-[10px] md:px-[100px] xl:px-[150px] flex items-center justify-center">
 
-        <div className='hero-content flex items-center justify-between absolute top-[8rem] xl:top-[12rem] space-x-[24px] md:space-x-[35px] lg:space-x-[50px] xl:space-x-[135px]'>
+        <div className='hero-content flex items-center justify-between absolute top-[8rem] xl:top-[12rem] lg:space-x-[50px] xl:space-x-[135px]'>
             <div className='image-box hidden lg:block'>
                 <img src={heroImg} alt="image" className='h-[250px] xl:h-[300px] w-auto ' />
             </div>
