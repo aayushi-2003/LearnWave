@@ -123,3 +123,9 @@
   min-width: 300px;
   margin-right: 2rem;
 }
+
+.app__courses-images_card {
+  position: relative;
+  min-width: 300px;
+  margin-right: 3rem;
+}
